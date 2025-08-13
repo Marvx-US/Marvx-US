@@ -1,4 +1,12 @@
-## Hi there 👋
+# Halo semua! 👋
+Perkenalkan nama saya Muh. Amar Ma’ruf. <br>
+
+Saya seorang mahasiswa di Universitas Ichsan Sidenreng Rappang pada program studi Informatika. <br>
+
+Saya memiliki minat besar pada pengembangan aplikasi, kecerdasan buatan (AI), dan pemrograman web maupun mobile. <br>
+
+Jika kamu tertarik untuk berkenalan atau berdiskusi, silakan ikuti akun [LinkedIn](www.linkedin.com/in/muh-amar-ma-ruf-105728229)  saya ya.
+
 
 <!--
 **Marvx-US/Marvx-US** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
