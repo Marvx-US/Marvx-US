@@ -31,7 +31,7 @@
 
 ## 🛠️ Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,fastapi,mysql,git&perline=7" height="55" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,nodejs,express,python,fastapi,mysql,git&perline=7" height="55" />
 </div>
 
 ---
