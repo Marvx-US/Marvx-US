@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./banner.jpg" alt="Muh. Amar Ma'ruf Banner" />
+  <img width="100%" src="./banner.png" alt="Sky Banner" />
 </div>
 
 <div align="center">
