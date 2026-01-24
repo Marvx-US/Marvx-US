@@ -7,9 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&random=false&width=650&height=50&lines=Hallo+%F0%9F%91%8B%2C+Saya+Muh.+Amar+Ma'ruf;Frontend+Developer+%F0%9F%8E%A8;Backend+Developer+%E2%9A%99%EF%B8%8F;Fullstack+Web+Developer+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGwyeGRid3o1OWU5YjFna2V4OTJ1dWN6aTV5OTlrajhuMHlyN2U3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dmFXUZ5up1T896HP8B/giphy.gif" width="100%" alt="Coding GIF"/>
 </div>
 
 <br/>
@@ -52,21 +50,25 @@
 <div align="center">
 
 ### 🎨 Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,laravel" />
 </p>
 
 ### 🗄️ Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" />
 </p>
 
 ### 🔧 Tools & DevOps
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
 </p>
