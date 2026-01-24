@@ -14,21 +14,25 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Marvx-US&label=Profile%20Views&color=FF7F00&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
   <img src="https://img.shields.io/github/followers/Marvx-US?label=Followers&style=for-the-badge&color=FF7F00&logo=github" alt="GitHub Followers" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muh-amar-ma-ruf-105728229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Muh.%20Amar%20Ma'ruf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/Marvx-US" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Marvx--US-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:amarmaruf@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/marvx.us" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@marvx.us-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
