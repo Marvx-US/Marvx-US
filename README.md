@@ -128,16 +128,6 @@ const marvx = {
 
 ---
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=true&bar_color=FF7F00" alt="Spotify" />
-  </a>
-</div>
-
----
-
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlrY3d1cXl6cmRkNjAzNzZ3bDNkM2Zidnh1ZXdvcWt4YXNsMXFiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nzz86dByLtYTS/giphy.gif" width="300" alt="Coding GIF"/>
 </div>
