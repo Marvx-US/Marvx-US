@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=MARVX-US&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=fadeIn&color=0:FF6B35,50:F7931E,100:FFD23F&stroke=ffffff&strokeWidth=2" />
+  <img width="100%" src="./banner.jpg" alt="Muh. Amar Ma'ruf Banner" />
 </div>
 
 <div align="center">
