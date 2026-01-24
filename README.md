@@ -94,7 +94,7 @@
 ---
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlrY3d1cXl6cmRkNjAzNzZ3bDNkM2Zidnh1ZXdvcWt4YXNsMXFiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nzz86dByLtYTS/giphy.gif" width="300" alt="Coding GIF"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlrY3d1cXl6cmRkNjAzNzZ3bDNkM2Zidnh1ZXdvcWt4YXNsMXFiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nzz86dByLtYTS/giphy.gif" width="100%" alt="Coding GIF"/>
 </div>
 
 <div align="center">
