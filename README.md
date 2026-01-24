@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm0wN240NGx2OWZ6cHZlaTR5Y292NHViNjF3YjBjcTdxbnh5dXo3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif" width="300" alt="Coding GIF"/>
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF7F00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hallo+%F0%9F%91%8B%2C+Saya+Muh.+Amar+Ma'ruf;Web+%26+Mobile+Developer+%F0%9F%9A%80;AI+%26+Data+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
@@ -39,7 +43,7 @@ const marvx = {
     location: "📍 Indonesia",
     currentFocus: "Building awesome web & mobile apps",
     funFact: "I debug with console.log and I'm proud of it 😎",
-    askMeAbout: ["Web Dev", "Mobile Dev", "AI/ML", "Data Science"],
+    askMeAbout: ["Web Dev", "Data Science"],
     goals2024: ["Contribute to Open Source", "Build Cool Projects", "Never Stop Learning"]
 };
 ```
