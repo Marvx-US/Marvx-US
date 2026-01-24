@@ -30,22 +30,6 @@
 
 ---
 
-## 🎯 About Me
-
-```javascript
-const marvx = {
-    pronouns: "He" | "Him",
-    role: "🎓 Informatika Student",
-    location: "📍 Indonesia",
-    currentFocus: "Building awesome fullstack web applications",
-    funFact: "I debug with console.log and I'm proud of it 😎",
-    askMeAbout: ["Frontend Dev", "Backend Dev", "React", "Next.js", "Node.js"],
-    goals2026: ["Contribute to Open Source", "Master Web Technologies", "Never Stop Learning"]
-};
-```
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -114,7 +98,6 @@ const marvx = {
 </div>
 
 <div align="center">
-  <h3>💖 Thanks for visiting!</h3>
   <p>
     <img src="https://img.shields.io/badge/Made%20with-❤️-FF7F00?style=for-the-badge" />
   </p>
