@@ -46,27 +46,6 @@ const marvx = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marvx-US&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Marvx-US&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7F00&icon_color=FF7F00&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Marvx-US&theme=radical&hide_border=true&background=0D1117&stroke=FF7F00&ring=FF7F00&fire=FF7F00&currStreakLabel=FF7F00" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvx-US&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7F00&text_color=c9d1d9" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
