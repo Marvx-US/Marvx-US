@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&random=false&width=650&height=50&lines=Hallo+%F0%9F%91%8B%2C+Saya+Muh.+Amar+Ma'ruf;Frontend+Developer+%F0%9F%8E%A8;Backend+Developer+%E2%9A%99%EF%B8%8F;Fullstack+Web+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&random=false&width=650&height=50&lines=Hallo+%F0%9F%91%8B%2C+Saya+Muh.+Amar+Ma'ruf;Frontend+Developer+%F0%9F%8E%A8;Backend+Developer+%E2%9A%99%EF%B8%8F;Fullstack+Web+Developer+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,15 +16,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muh-amar-ma-ruf-105728229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Marvx-US" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-6B21A8?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0284C7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/mhmmd_amarv/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-C026D3?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-38BDF8?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Marvx-US&bg_color=0D1117&color=A855F7&line=C026D3&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Marvx-US&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&area_color=0284C7&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -79,7 +79,7 @@
 
 <div align="center">
   <a href="https://github.com/Marvx-US/project-1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Marvx-US&repo=Marvx-US&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C026D3&text_color=c9d1d9" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Marvx-US&repo=Marvx-US&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=c9d1d9" />
   </a>
 </div>
 
@@ -88,7 +88,7 @@
 ## 💬 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Random Dev Quote" />
 </div>
 
 ---
@@ -99,10 +99,10 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Made%20with-💜-A855F7?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Made%20with-�-38BDF8?style=for-the-badge" />
   </p>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Let's%20Connect!&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=65&animation=fadeIn&color=0:7C3AED,50:A855F7,100:C026D3" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Let's%20Connect!&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=65&animation=fadeIn&color=0:0284C7,50:0EA5E9,100:38BDF8" />
 </div>
