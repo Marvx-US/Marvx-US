@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF7F00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hallo+%F0%9F%91%8B%2C+Saya+Muh.+Amar+Ma'ruf;Web+%26+Mobile+Developer+%F0%9F%9A%80;AI+%26+Data+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF7F00&center=true&vCenter=true&multiline=true&random=false&width=650&height=100&lines=Hallo+%F0%9F%91%8B%2C+Saya+Muh.+Amar+Ma'ruf;Frontend+Developer+%F0%9F%8E%A8;Backend+Developer+%E2%9A%99%EF%B8%8F;Fullstack+Web+Developer+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -41,10 +41,10 @@ const marvx = {
     pronouns: "He" | "Him",
     role: "🎓 Informatika Student",
     location: "📍 Indonesia",
-    currentFocus: "Building awesome web & mobile apps",
+    currentFocus: "Building awesome fullstack web applications",
     funFact: "I debug with console.log and I'm proud of it 😎",
-    askMeAbout: ["Web Dev", "Data Science"],
-    goals2024: ["Contribute to Open Source", "Build Cool Projects", "Never Stop Learning"]
+    askMeAbout: ["Frontend Dev", "Backend Dev", "React", "Next.js", "Node.js"],
+    goals2026: ["Contribute to Open Source", "Master Web Technologies", "Never Stop Learning"]
 };
 ```
 
@@ -92,7 +92,7 @@ const marvx = {
 
 <div align="center">
 
-### 🌐 Frontend
+### � Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
@@ -102,14 +102,14 @@ const marvx = {
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,laravel" />
 </p>
 
-### 🗄️ Database & Tools
+### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" />
 </p>
 
-### 📱 Mobile & Other
+### � Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
 </p>
 
 </div>
