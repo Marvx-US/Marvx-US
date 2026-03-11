@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRteDluNm4za2lseHp0aHI0YnZ6NWIxZW1yZnpwdzcxMHhkZG9pdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KPgOYtYbSqREI/giphy.gif" width="100%" alt="Itachi Sharingan"/>
+  <img src="https://media.giphy.com/media/KPgOYtYbSqREI/giphy.gif" width="100%" alt="Itachi Sharingan"/>
 </div>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJxbDB3MHRxZ2RneWNsdm1vNXV5MW03anAwdnZhNWgzdThucnVnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cxz1fA20xI33a/giphy.gif" width="100%" alt="Akatsuki GIF"/>
+  <img src="https://media.giphy.com/media/Cxz1fA20xI33a/giphy.gif" width="100%" alt="Akatsuki GIF"/>
 </div>
 
 <br/>
