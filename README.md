@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=E60012&center=true&vCenter=true&width=800&lines=お前はすでに…幻術にかかっている。;俺はMarvx-US、Sクラスの開発者。;愚かな弟よ…;月読へようこそ。" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=26&pause=1000&color=E60012&center=true&vCenter=true&width=800&lines=%E3%81%8A%E5%89%8D%E3%81%AF%E3%81%99%E3%81%A7%E3%81%AB%E2%80%A6%E5%B9%BB%E8%A1%93%E3%81%AB%E3%81%8B%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82;%E4%BF%BA%E3%81%AFMarvx-US%E3%80%81S%E3%82%AF%E3%83%A9%E3%82%B9%E3%81%AE%E9%96%8B%E7%99%BA%E8%80%85%E3%80%82;%E6%84%9A%E3%81%8B%E3%81%AA%E5%BC%9F%E3%82%88%E2%80%A6;%E6%9C%88%E8%AA%AD%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82" alt="Typing SVG" />
 </div>
 
 <div align="center">
