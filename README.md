@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Marvx-US/Marvx-US/main/itachi-sharingan.gif" alt="Itachi Sharingan" />
+  <img width="100%" src="https://raw.githubusercontent.com/Marvx-US/Marvx-US/main/itachi-banner.png" alt="Itachi Sharingan" />
 </div>
 
 <br/>
@@ -103,7 +103,7 @@
 ## ⚔️ Final Words of the Uchiha
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Marvx-US/Marvx-US/main/akatsuki.gif" alt="Akatsuki GIF" />
+  <img width="100%" src="https://raw.githubusercontent.com/Marvx-US/Marvx-US/main/akatsuki-banner.png" alt="Akatsuki Banner" />
   <br/><br/>
   <h3><i>"People live their lives bound by what they accept as correct and true. That is how they define 'reality'."</i></h3>
 </div>
