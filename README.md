@@ -39,7 +39,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,fastapi,laravel,postgres,prisma,docker,git,figma&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=express,react,nextjs&theme=dark" />
 </div>
 
 <br/>
