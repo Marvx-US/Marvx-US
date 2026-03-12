@@ -1,9 +1,13 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:000000,50:4a0000,100:8B0000&fontColor=ffffff&fontSize=42&fontAlignY=40&text=Welcome%20to%20My%20Domain&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=62&descAlign=50&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:000000,50:4a0000,100:8B0000&fontColor=ffffff&fontSize=42&fontAlignY=40&text=Marvx-US&desc=The%20Sharingan%20Developer&descAlignY=62&descAlign=50&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E60012&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Developing+Scalable+Solutions;Always+Curious,+Always+Learning;print(%22Welcome+to+my+GitHub%22)" alt="Typing SVG" />
+  <img src="akatsuki.gif" width="100%" alt="Akatsuki Animation" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E60012&center=true&vCenter=true&width=600&lines=%E3%81%8A%E5%89%8D%E3%81%AF%E3%81%99%E3%81%A7%E3%81%AB%E2%80%A6%E5%B9%BB%E8%A1%93%E3%81%AB%E3%81%8B%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82;System.out.println(%22Amaterasu!%22);Developing+Scalable+Solutions;Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
 
 <br/>
