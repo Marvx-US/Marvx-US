@@ -1,90 +1,75 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:000000,50:4a0000,100:8B0000&fontColor=ffffff&fontSize=42&fontAlignY=40&text=Marvx-US&desc=The%20Sharingan%20Developer&descAlignY=62&descAlign=50&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=000000&text=AMAR%20MA'RUF&fontSize=45&fontAlignY=50&fontColor=8B0000&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="akatsuki.gif" width="100%" alt="Akatsuki Animation" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E60012&center=true&vCenter=true&width=600&lines=%E3%81%8A%E5%89%8D%E3%81%AF%E3%81%99%E3%81%A7%E3%81%AB%E2%80%A6%E5%B9%BB%E8%A1%93%E3%81%AB%E3%81%8B%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82;System.out.println(%22Amaterasu!%22);Developing+Scalable+Solutions;Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=2000&color=A0A0A0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Architecting+Digital+Experiences;Focused+on+Performance+%26+Style" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/muh-amar-ma-ruf-105728229">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin&logoColor=8B0000" />
   </a>
   &nbsp;
   <a href="https://github.com/Marvx-US">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/mhmmd_amarv/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&logoColor=8B0000" />
   </a>
-</div>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### ✧ Essential Dossier
 
-```yaml
-name    : Muh. Amar Ma'ruf
-alias   : Marvx-US
-role    : Full Stack Developer
-focus   : Web Development & Scalable Architecture
-status  : 🔴 Always on Mission
-```
+*“Simplicity is the ultimate sophistication.”*
 
-> *"I am passionate about turning complex problems into elegant, efficient, and user-friendly solutions."*
+- **Identity** | Muh. Amar Ma'ruf
+- **Specialization** | Full Stack Engineering
+- **Philosophy** | Scalable Architecture & Refined Design
+- **Availability** | Open for Strategic Collaboration
 
 ---
 
-## 🛠️ Technology Stack
+### ✧ The Toolkit
 
 <div align="center">
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,fastapi,laravel,postgres,prisma,docker,git,figma&theme=dark&perline=6" />
 </div>
+
 <br/>
-<div align="center">
-  <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,laravel" />
-</div>
-<br/>
-<div align="center">
-  <b>Database & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,git,github,docker,figma" />
-</div>
 
 ---
 
-## 📊 Analytics & Activity
+### ✧ Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marvx-US&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=E60012&icon_color=E60012&text_color=c9d1d9&border_color=8B0000" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvx-US&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=E60012&text_color=c9d1d9&border_color=8B0000" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marvx-US&show_icons=true&theme=transparent&title_color=8B0000&icon_color=8B0000&text_color=A0A0A0&border_color=333333&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvx-US&layout=compact&theme=transparent&title_color=8B0000&text_color=A0A0A0&border_color=333333&hide_border=true" width="40%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Marvx-US&theme=dark&background=0D1117&border=8B0000&ring=E60012&fire=E60012&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=E60012&sideLabels=c9d1d9&dates=888888" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marvx-US&bg_color=0D1117&color=E60012&line=8B0000&point=E60012&area=true&area_color=4a0000&hide_border=false" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Marvx-US&theme=dark&background=00000000&border=333333&stroke=333333&ring=8B0000&fire=8B0000&currStreakNum=ffffff&sideNums=A0A0A0&currStreakLabel=8B0000&sideLabels=A0A0A0&dates=555555&hide_border=true" width="70%" />
 </div>
 
 ---
 
-## 🐍 Continual Progress
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marvx-US/Marvx-US/output/snake-dark.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Marvx-US/Marvx-US/output/snake.svg">
+    <img alt="Snake" src="https://raw.githubusercontent.com/Marvx-US/Marvx-US/output/snake.svg">
   </picture>
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:E60012,50:8B0000,100:000000" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=40&color=000000" />
 </div>
